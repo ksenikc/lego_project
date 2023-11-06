@@ -67,3 +67,12 @@ header ul li{
 .text3{
     color: #1A01B7;
 }
+footer {
+    background-color: #FFCA10;
+    height: 74px;
+}
+footer p {
+    text-align: center;
+    padding-top: 25px;
+    font-weight: 400;
+}
