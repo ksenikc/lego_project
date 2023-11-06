@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+    
+}
+body{
+    width: 1440px;
+}
+
+.banner{
+    width: 1440px;
+    height: 346px;
+    background-color:  #FEE667;
+
+}
+.logo{
+    margin-top: 30px;
+    margin-left: 141px;   
+}
+
+.lego{
+    float: right;
+    padding-top: 80px;
+    padding-right: 114px;
+}
+
+.banner p{
+    color: #2590DD;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p span{
+    font-size: 60px;
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.text2{
+    width: 500px;
+    margin-top: 14px;
+    margin-left: 100px;
+}
